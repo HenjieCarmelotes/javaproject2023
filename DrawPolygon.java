@@ -10,6 +10,8 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.input.MouseButton;
 import javafx.scene.paint.Color;
 
+//Testing
+
 /**
  * This program lets the user draw filled polygons.
  * The user inputs a polygon by clicking a series of points.
